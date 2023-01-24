@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Trip-Hazard86
-- 👀 I’m interested in ... learning how to code and becoming a software developer.
-- 🌱 I’m currently learning ... I am studying Responsive Web Design on freeCodeCamp
-- 💞️ I’m looking to collaborate on ... I am not sure as I am a beginner.
+- 👀 I’m interested in ... learning how to code and becoming a software developer
+- 🌱 I’m currently learning ... I am learning JS & React, and C#
+- 💞️ I’m looking to collaborate on ... React projects or games created with C#
 - 📫 How to reach me ... please email me at michaelfury86@gmail.com
 
 <!---
