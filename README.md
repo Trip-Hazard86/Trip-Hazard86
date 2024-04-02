@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Trip-Hazard86
 - 👀 I’m interested in ... learning how to code and becoming a software developer
-- 🌱 I’m currently learning ... I am learning JS & React, and C#
-- 💞️ I’m looking to collaborate on ... React projects or games created with C#
+- 🌱 I’m currently learning ... I am learning C#
+- 💞️ I’m looking to collaborate on ... dotnet projects involving websockets/api connections
 - 📫 How to reach me ... please email me at michaelfury86@gmail.com
 
 <!---
